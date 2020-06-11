@@ -1,3 +1,5 @@
 Buch
 Eisenbahn
 Drucker
+Telefon
+Maus
